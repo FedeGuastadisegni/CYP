@@ -1,0 +1,85 @@
+* {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 13px;
+font-weight: bold;
+color: #57534c;
+text-decoration: none;
+line-height: 24px;
+}
+
+table {
+border-top: 1px solid #57534c;
+border-right: 1px solid #57534c;
+padding: 0
+}
+
+td {
+border-bottom: 1px solid #57534c;
+border-left: 1px solid #57534c;
+padding: 5px
+}
+
+.header {
+font-size: 20px;
+color: #3B5998
+}
+
+select {
+width: 250px
+}
+
+.padding1{
+	padding-top: 25px;
+	padding-bottom: 15px;
+}
+
+
+#wrapper{
+	min-height: 751px;
+	width: 70%;
+	margin: auto;
+	background-color: white;
+	box-shadow: 0px 0px 10px 1px rgba(185,209,217,1);
+}
+#cabeceraB{
+	background-color: #060194;
+	font-size: 50px;
+	color:#FFFFFF;
+	padding-top: 30px;
+	padding-bottom: 25px;
+	width: 97%;
+}
+
+#cabecerafont{
+	font-size: 50px;
+	color: white;
+}
+
+.footfont{
+	color: #646464;
+}
+.footfont:hover{
+	color: #646464;
+}
+
+.footimg{
+	padding-left: 10px;
+	width: 5%;
+}
+
+body{
+	background-image:url("img/fondo2.jpg");
+	background-repeat:repeat;
+}
+
+.colorFondo{
+	background-color: 
+}
+
+.ajuste{
+	width: 97%;
+}
+.ajuste2{
+	height: 26.5%;
+}
+
